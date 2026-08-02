@@ -35,3 +35,9 @@ Dự án này được xây dựng nhằm mục đích ứng dụng các cấu t
    git clone <địa-chỉ-repo-của-bạn>
    cd <tên-thư-mục-repo>
    ```
+
+### Tác giả
+
+1. Tên: Nguyễn Hữu Thọ
+2. Chuyên ngành: Khoa học Máy tính (Computer Science)
+3. Đơn vị: Đại học Bách Khoa TP.HCM (HCMUT)
