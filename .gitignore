@@ -1,0 +1,10 @@
+# Bỏ qua các file thực thi
+*.exe
+*.bat
+*.sh
+
+# Bỏ qua thư mục cấu hình của VS Code
+.vscode/
+
+# Bỏ qua các file text
+*.txt
