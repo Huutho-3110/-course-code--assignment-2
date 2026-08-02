@@ -38,6 +38,12 @@ Dự án này được xây dựng nhằm mục đích ứng dụng các cấu t
 
 ### Tác giả
 
-1. Tên: Nguyễn Hữu Thọ
-2. Chuyên ngành: Khoa học Máy tính (Computer Science)
-3. Đơn vị: Đại học Bách Khoa TP.HCM (HCMUT)
+1. **Tên:** Nguyễn Hữu Thọ
+2. **Chuyên ngành:** Khoa học Máy tính (Computer Science)
+3. **Đơn vị:** Đại học Bách Khoa TP.HCM (HCMUT)
+
+### Comment linh tinh
+
+1. Sua fix cua lvl 6 van chua hieu
+2. Them mau sac cho phan tac gia
+3. Khong su dung Unikey
