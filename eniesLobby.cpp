@@ -2094,3 +2094,5 @@ string EniesLobbyBattle::getResult() const
            std::to_string(this->context.escapeProgress) + " " +
            std::to_string(this->context.busterCallTimer);
 }
+
+// Hello, welcome to my youtube chanel
