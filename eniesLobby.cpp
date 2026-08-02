@@ -2096,3 +2096,5 @@ string EniesLobbyBattle::getResult() const
 }
 
 // Hello, welcome to my youtube chanel
+
+// new cmt practice
