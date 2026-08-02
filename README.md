@@ -1,6 +1,6 @@
 # 🏴‍☠️ Enies Lobby Simulation System
 
-> Đồ án môn học **Kỹ thuật Lập trình** - Mô phỏng hệ thống chiến đấu dựa trên cốt truyện One Piece.
+> Bài tập lớn môn học **Kỹ thuật Lập trình** - Mô phỏng hệ thống chiến đấu dựa trên cốt truyện One Piece.
 
 ## 📖 Giới thiệu
 
