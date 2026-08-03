@@ -49,3 +49,7 @@ Dự án này được xây dựng nhằm mục đích ứng dụng các cấu t
 3. Khong su dung Unikey
 4. 03/08/2026: Hoc cach su dung work flow
 5. Hello word
+
+### Learning Merg Confict
+
+1. Team A dang code chuc nang 1
