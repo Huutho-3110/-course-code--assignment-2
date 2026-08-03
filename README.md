@@ -47,3 +47,5 @@ Dự án này được xây dựng nhằm mục đích ứng dụng các cấu t
 1. Sua fix cua lvl 6 van chua hieu
 2. Them mau sac cho phan tac gia
 3. Khong su dung Unikey
+4. 03/08/2026: Hoc cach su dung work flow
+5. Hello word
