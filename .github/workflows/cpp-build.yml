@@ -17,3 +17,6 @@ jobs:
 
       - name: Buoc 3 - Bien dich du an Enies Lobby
         run: g++ eniesLobby.cpp main.cpp -o eniesLobby_app
+
+      - name: Buoc 4 - Chay thu ung dung (Test Execution)
+        run: ./eniesLobby_app
