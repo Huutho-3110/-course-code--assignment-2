@@ -2100,3 +2100,5 @@ string EniesLobbyBattle::getResult() const
 // new cmt practice
 
 // adding feature A
+
+// adding feature B
