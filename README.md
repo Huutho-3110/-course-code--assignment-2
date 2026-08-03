@@ -53,3 +53,4 @@ Dự án này được xây dựng nhằm mục đích ứng dụng các cấu t
 ### Learning Merg Confict
 
 1. Team A dang code chuc nang 1
+2. Team B dang code chuc nang 2
