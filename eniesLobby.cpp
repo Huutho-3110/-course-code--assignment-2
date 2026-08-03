@@ -2092,7 +2092,7 @@ string EniesLobbyBattle::getResult() const
            std::to_string(this->context.alarmLevel) + " " +
            std::to_string(this->context.rescueProgress) + " " +
            std::to_string(this->context.escapeProgress) + " " +
-           std::to_string(this->context.busterCallTimer)
+           std::to_string(this->context.busterCallTimer);
 }
 
 // Hello, welcome to my youtube chanel
