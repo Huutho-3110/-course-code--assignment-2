@@ -1,0 +1,19 @@
+name: C++ Build Test
+
+on:
+  push:
+    branches: ["main", "develop"] # Kích hoạt khi có người push lên main hoặc develop
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest # Thuê 1 máy ảo Linux miễn phí của GitHub
+
+    steps:
+      - name: Buoc 1 - Tai ma nguon ve may ao
+        uses: actions/checkout@v3
+
+      - name: Buoc 2 - Kiem tra phien ban g++
+        run: g++ --version
+
+      - name: Buoc 3 - Bien dich du an Enies Lobby
+        run: g++ eniesLobby.cpp main.cpp -o eniesLobby_app
